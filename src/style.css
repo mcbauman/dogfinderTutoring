@@ -1,0 +1,14 @@
+img{
+    width:100px;
+    border-radius: 50%;
+    border: solid 5px purple;
+}
+.inactive{
+    opacity: 0.2;
+}
+.active{
+    opacity: 1;
+}
+body{
+    text-align: center;
+}
